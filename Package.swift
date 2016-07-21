@@ -34,7 +34,7 @@ let package = Package(
         .Package(url: "https://github.com/qutheory/polymorphic.git", majorVersion: 0, minor: 2),
 
         //Core vapor transport layer
-        .Package(url: "https://github.com/qutheory/engine.git", majorVersion: 0, minor: 2),
+        .Package(url: "https://github.com/freesuraj/engine.git", majorVersion: 0, minor: 2),
 
         // Console protocol and implementation for powering command line interface.
         .Package(url: "https://github.com/qutheory/console.git", majorVersion: 0, minor: 2)
